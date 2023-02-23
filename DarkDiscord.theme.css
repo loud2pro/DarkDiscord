@@ -37,6 +37,9 @@
     
     /* Discord Directory */
     --primary-600: rgba(14, 15, 16);
+    
+    /* Integration Buttons */
+    --button-secondary-background: rgba(34, 36, 38);
 }
 
 /* Discord App Classes */
