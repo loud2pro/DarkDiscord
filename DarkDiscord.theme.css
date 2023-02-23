@@ -55,3 +55,13 @@
 .contentWrapper-3vHNP2 {
     background-color: rgba(14, 15, 16, 1)!important;
 }
+
+
+/* Patch to make interaction dropdown buttons non-transparent */
+.option-Uc12mm {
+    background-color: rgba(14, 15, 16, 0.8)!important;
+}
+
+.option-Uc12mm:hover {
+    background-color: rgb(30, 31, 33)!important;
+}
