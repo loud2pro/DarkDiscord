@@ -34,6 +34,9 @@
 
     /* Profile Buttons */
     --profile-gradient-button-color: rgba(34, 36, 38, 0.4);
+    
+    /* Discord Directory */
+    --primary-600: rgba(14, 15, 16);
 }
 
 /* Discord App Classes */
