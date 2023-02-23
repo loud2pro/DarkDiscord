@@ -1,4 +1,4 @@
-### DarkDiscord
+# DarkDiscord
 ## In order to get the theme working, please follow these steps:
 - Go to your BetterDiscord Settings and open the Window Preferences tab.
 - Turn on the Enable Transparency setting and restart your discord.
