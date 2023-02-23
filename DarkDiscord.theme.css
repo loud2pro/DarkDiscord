@@ -29,8 +29,8 @@
     /* Modal */
     --modal-background: rgba(14, 15, 16, 1);
 
-    /* Notification badges/delete buttons */
-    --status-danger: rgba(34, 36, 38, 0.4);
+    /* Notification badges */
+    --status-danger: rgba(34, 36, 38);
 
     /* Profile Buttons */
     --profile-gradient-button-color: rgba(34, 36, 38, 0.4);
