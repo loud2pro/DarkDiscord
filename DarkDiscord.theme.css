@@ -1,0 +1,51 @@
+/**
+ * @author loud
+ * @name DarkDiscord
+ * @description Semi-transparent actual dark-mode discord (only works on dark mode!)
+ * @version 1.0.0
+ * @authorId 976956328713003029
+ */
+
+/* Dark theme modification */
+.theme-dark {
+    /* Background */
+    --background-primary: rgba(14, 15, 16, 0.4);
+    --background-secondary: rgba(14, 15, 16, 0.4);
+    --background-tertiary: rgba(14, 15, 16, 0.4);
+    --background-secondary-alt: rgba(14, 15, 16, 0.4);
+    --background-modifier-accent: rgba(14, 15, 16, 0.4);
+    --background-modifier-selected: rgb(30, 31, 33, 0.4);
+    --background-accent: rgb(30, 31, 33, 0.4);
+
+    /* Components */
+    --deprecated-panel-background: rgba(14, 15, 16, 0.4);
+    --channeltextarea-background: rgba(14, 15, 16, 0.4);
+    --bg-overlay-1: rgba(14, 15, 16, 0.4);
+
+    /* Slash commands */
+    --primary-630: rgba(14, 15, 16, 1);
+    --background-floating: rgba(14, 15, 16, 1);
+    
+    /* Modal */
+    --modal-background: rgba(14, 15, 16, 1);
+
+    /* Notification badges/delete buttons */
+    --status-danger: rgba(34, 36, 38, 0.4);
+
+    /* Profile Buttons */
+    --profile-gradient-button-color: rgba(34, 36, 38, 0.4);
+}
+
+/* Discord App Classes */
+.app-2rEoOp {
+    background-color: rgba(14, 15, 16, 0.1);
+}
+
+.bg-h5JY_x {
+    background-color: rgba(14, 15, 16, 0.1);
+}
+
+/* Patch to make the gifs modal non-transparent. */
+.contentWrapper-3vHNP2 {
+    background-color: rgba(14, 15, 16, 1)!important;
+}
